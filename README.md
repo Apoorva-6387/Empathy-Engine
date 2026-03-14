@@ -160,31 +160,16 @@ http://127.0.0.1:5000
 ```
 
 ---
+## 📸 Project Result
 
-# 🖼️ Project Screenshots
+### Main Interface
 
-## Main Interface
+![Main Interface](images/image1.png)
 
-![UI Screenshot](images/image1.png)
+### Emotion Detection Result
 
-## Emotion Detection Result
+![Emotion Detection Result](images/image2.png)
 
-![Result Screenshot](images/image2.png)
-
-To add screenshots:
-
-1. Create a folder named:
-
-```
-images
-```
-
-2. Place your screenshots:
-
-```
-images/image1.png
-images/image2.png
-```
 
 ---
 
