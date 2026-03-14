@@ -164,11 +164,11 @@ http://127.0.0.1:5000
 
 ### Main Interface
 
-![Main Interface](images/image1.png)
+![Main Interface](./images/image1.png)
 
 ### Emotion Detection Result
 
-![Emotion Detection Result](images/image2.png)
+![Emotion Detection Result](./images/image2.png)
 
 
 ---
