@@ -182,8 +182,8 @@ images
 2. Place your screenshots:
 
 ```
-images/ui.png
-images/result.png
+images/image1.png
+images/image2.png
 ```
 
 ---
